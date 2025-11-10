@@ -66,3 +66,4 @@ If you'd prefer to practice in your own language of choice, you can install a co
 
 (C) Johanna Bayer, 2025
 
+Readme edited by Gregor a second time
