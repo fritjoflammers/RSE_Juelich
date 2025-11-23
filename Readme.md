@@ -2,7 +2,7 @@
 
 This is the training respository for the JuDocs course for Research Software Engineering (November 10-11, 2025), at the Forschungszentrum Juelich, provided by the Digital Research Academy. The material is developed Johanna Bayer and modified by Fritjof Lammers. This edition of the course is given by Fritjof Lammers
 
-
+I just wanted to add a change for practice reasons.
 
 <details>
 <summary>Day 1</summary>
